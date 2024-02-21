@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import string
 from nltk.corpus import stopwords
-import nltk
+import NLTK
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()

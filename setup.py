@@ -1,1 +1,1 @@
-pip install scikit-learn
+pip install sklearn==1.1.3

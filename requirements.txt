@@ -1,4 +1,4 @@
-pip install scikit-learn
+scikit-learn
 streamlit
 nltk
 sklearn
